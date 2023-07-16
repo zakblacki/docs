@@ -35,5 +35,10 @@ Building with `flutter build --release` will not include Shorebird in your app.
 At any time you can simply drop back to `flutter build` and things will work
 as they did before.
 
+#Linux 
 You can remove `shorebird` from your path by removing it from your `.bashrc` or
 `.zshrc` and deleting the `.shorebird` directory located in `~/.shorebird`.
+
+#Windows
+You can delete .shorebird directory located at "C:\Users\YOUR_NAME\.shorebird" .
+also remove entry from your user path environement.
